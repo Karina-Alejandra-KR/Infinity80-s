@@ -1,0 +1,244 @@
+[
+    {
+        "id": "chamarra-retrowave-m",
+        "titulo": "Chamarra RetroWaveM",
+        "imagen": "./src/img/ropa_retro/chamarra_dama.jpg",
+        "categoria": {
+            "nombre": "Ropa Retro",
+            "id": "ropar"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "chamarra-retrowave-h",
+        "titulo": "Chamarra RetroWaveH",
+        "imagen": "./src/img/ropa_retro/chamarra_caballero.jpg",
+        "categoria": {
+            "nombre": "Ropa Retro",
+            "id": "ropar"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "blusa-cosmic-chill",
+        "titulo": "Blusa Cosmic Chill",
+        "imagen": "./src/img/ropa_retro/blusa_dama.png",
+        "categoria": {
+            "nombre": "Ropa Retro",
+            "id": "ropar"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camisa-vintage-spirit",
+        "titulo": "Camisa Vintage Spirit",
+        "imagen": "./src/img/ropa_retro/camisa_caballero.png",
+        "categoria": {
+            "nombre": "Ropa Retro",
+            "id": "ropar"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "chaqueta-flashback-fever",
+        "titulo": "Chaqueta Flashback Fever",
+        "imagen": "./src/img/ropa_retro/chaqueta_dama.jpg",
+        "categoria": {
+            "nombre": "Ropa Retro",
+            "id": "ropar"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "chaqueta-midnight-rebel",
+        "titulo": "Chaqueta Midnight Rebel",
+        "imagen": "./src/img/ropa_retro/chaqueta_caballero.jpg",
+        "categoria": {
+            "nombre": "Ropa Retro",
+            "id": "ropar"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "jeans-pixel-pop-m",
+        "titulo": "Jeans Pixel Pop M",
+        "imagen": "./src/img/ropa_retro/jeans_dama.jpg",
+        "categoria": {
+            "nombre": "Ropa Retro",
+            "id": "ropar"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "jeans-turbo-flash-h",
+        "titulo": "Jeans Turbo Flash H",
+        "imagen": "./src/img/ropa_retro/jeans_caballero.jpg",
+        "categoria": {
+            "nombre": "Ropa Retro",
+            "id": "ropar"
+        },
+        "precio": 1500
+    },
+    
+    {
+        "id": "camara-vhs-rx14",
+        "titulo": "Cámara VHS RX14",
+        "imagen": "./src/img/tecnologia_retro/vhs.jpg",
+        "categoria": {
+            "nombre": "Tecnología Retro",
+            "id": "tecnor"
+        },
+        "precio": 7500
+    },
+    {
+        "id": "walkman-sony",
+        "titulo": "Walkman Sony",
+        "imagen": "./src/img/tecnologia_retro/walkman.jpg",
+        "categoria": {
+            "nombre": "Tecnología Retro",
+            "id": "tecnor"
+        },
+        "precio": 5500
+    },
+    {
+        "id": "nintendo-gameboy",
+        "titulo": "Nintendo GameBoy",
+        "imagen": "./src/img/tecnologia_retro/gameboy.jpg",
+        "categoria": {
+            "nombre": "Tecnología Retro",
+            "id": "tecnor"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "polaroid-land-camera",
+        "titulo": "Polaroid Land Camera",
+        "imagen": "./src/img/tecnologia_retro/polaroid.jpg",
+        "categoria": {
+            "nombre": "Tecnología Retro",
+            "id": "tecnor"
+        },
+        "precio": 6500
+    },
+    {
+        "id": "discman-original",
+        "titulo": "Discman Original",
+        "imagen": "./src/img/tecnologia_retro/discman.png",
+        "categoria": {
+            "nombre": "Tecnología Retro",
+            "id": "tecnor"
+        },
+        "precio": 6500
+    },
+    {
+        "id": "tocadiscos-original",
+        "titulo": "Tocadiscos Original",
+        "imagen": "./src/img/tecnologia_retro/tocadiscos.png",
+        "categoria": {
+            "nombre": "Tecnología Retro",
+            "id": "tecnor"
+        },
+        "precio": 10500
+    },
+    {
+        "id": "reloj-casio",
+        "titulo": "Reloj Casio",
+        "imagen": "./src/img/tecnologia_retro/casio.png",
+        "categoria": {
+            "nombre": "Tecnología Retro",
+            "id": "tecnor"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "maquina-arcade",
+        "titulo": "Máquina Arcade",
+        "imagen": "./src/img/tecnologia_retro/arcade.jpg",
+        "categoria": {
+            "nombre": "Tecnología Retro",
+            "id": "tecnor"
+        },
+        "precio": 75000
+    },
+    
+    {
+        "id": "lentes-hologram-heat",
+        "titulo": "Lentes Hologram Heat",
+        "imagen": "./src/img/variedad/lentes_de_sol.png",
+        "categoria": {
+            "nombre": "Variedad",
+            "id": "variedad"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "poster-original-a-ha",
+        "titulo": "Póster Original A-ha",
+        "imagen": "./src/img/variedad/poster_a_ha.jpg",
+        "categoria": {
+            "nombre": "Variedad",
+            "id": "variedad"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "poster-original-the-bangles",
+        "titulo": "Póster Original The Bangles",
+        "imagen": "./src/img/variedad/poster_the_bangles.jpg",
+        "categoria": {
+            "nombre": "Variedad",
+            "id": "variedad"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "poster-bttf",
+        "titulo": "Póster Back To The Future",
+        "imagen": "./src/img/variedad/poster_back_to_the_future.jpg",
+        "categoria": {
+            "nombre": "Variedad",
+            "id": "variedad"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cubo-rubik",
+        "titulo": "Cubo Rubik",
+        "imagen": "./src/img/variedad/cubo_rubik.png",
+        "categoria": {
+            "nombre": "Variedad",
+            "id": "variedad"
+        },
+        "precio": 500
+    },
+    {
+        "id": "mochila-retronova",
+        "titulo": "Mochila RetroNova",
+        "imagen": "./src/img/variedad/mochila.png",
+        "categoria": {
+            "nombre": "Variedad",
+            "id": "variedad"
+        },
+        "precio": 1100
+    },
+    {
+        "id": "patines-technobeat",
+        "titulo": "Patines TechnoBeat",
+        "imagen": "./src/img/variedad/patines_1.jpg",
+        "categoria": {
+            "nombre": "Variedad",
+            "id": "variedad"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "patines-electrosunset",
+        "titulo": "Patines ElectroSunset",
+        "imagen": "./src/img/variedad/patines_2.jpg",
+        "categoria": {
+            "nombre": "Variedad",
+            "id": "variedad"
+        },
+        "precio": 2000
+    }
+]
